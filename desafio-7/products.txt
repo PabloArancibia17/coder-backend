@@ -1,0 +1,1 @@
+[{"product":"Mate","id":1,"value":275,"thumbnail":"http//algo.com"},{"product":"Bombilla","id":2,"value":200,"thumbnail":"http/nuestramadre.com"},{"product":"Yerbas","id":3,"value":500,"thumbnail":"http//Quisió.com"},{"product":"Cubre Mate","id":4,"value":375,"thumbnail":"http//somelinkImg.com"}]
